@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.3337ba24.css",
+    "main.js": "/Personal-Portfolio/static/js/main.3ad80319.js",
+    "static/media/WebCompany.png": "/Personal-Portfolio/static/media/WebCompany.84cd5766c701d307f0f5.png",
+    "static/media/hero.jpg": "/Personal-Portfolio/static/media/hero.f7da86953424f2507a3b.jpg",
+    "static/media/Calculator.png": "/Personal-Portfolio/static/media/Calculator.5ac5e17acb7a5c5e1b6c.png",
+    "static/media/Skills.jpg": "/Personal-Portfolio/static/media/Skills.9c92999195ef1e415e40.jpg",
+    "static/media/Personal site-amico.png": "/Personal-Portfolio/static/media/Personal site-amico.c5e2a1d04de4e0e55f41.png",
+    "static/media/Stopwatch.png": "/Personal-Portfolio/static/media/Stopwatch.962864e3a07fb17c1a42.png",
+    "static/media/Todo.png": "/Personal-Portfolio/static/media/Todo.dc027b03c4f8950852a0.png",
+    "static/media/about.jpg": "/Personal-Portfolio/static/media/about.6be564645b8cd9b14fe5.jpg",
+    "static/media/E-comm-logo.jpg": "/Personal-Portfolio/static/media/E-comm-logo.bd449a26cfd1930cd844.jpg",
+    "static/media/contact us.jpg": "/Personal-Portfolio/static/media/contact us.cd44f2bf0d2c54e6986b.jpg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.3337ba24.css.map": "/Personal-Portfolio/static/css/main.3337ba24.css.map",
+    "main.3ad80319.js.map": "/Personal-Portfolio/static/js/main.3ad80319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3337ba24.css",
+    "static/js/main.3ad80319.js"
+  ]
+}
